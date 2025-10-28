@@ -1,11 +1,10 @@
-# Advent
-Advent of Code work
+# Coding Quest / Advento fo Code Puzzle
 
 Structure lifted form @abersnaze
 
 # Advent of Code solution
 
-My code to find solutions to the [Advent of Code](https://adventofcode.com/).
+This repo contains my starting code for [Advent of Code](https://adventofcode.com/) and [Coding Quest](https://codingquest.io) problems.  These puzzles invove reading a large file of puzzle data.
 
 ## Implementation Methodology
 
